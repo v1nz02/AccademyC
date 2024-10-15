@@ -20,7 +20,7 @@ Console.WriteLine("Sono in RELEASE");
 
 for (int i = 1; i <= 20; i++)
 {
-    Console.WriteLine("Il valore dell indice è " + i);
+    Console.WriteLine("Il valore dell indice è il seguente" + i);
 }
 #endif
 
